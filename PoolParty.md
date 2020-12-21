@@ -80,6 +80,8 @@ When acting, characters can take actions that effect existing pools and/or start
 
 **Fight the Horde**: A character adds their own dice to a pool or starts a new pool, and then is able to resolve it against multiple target patterns at once.
 
+**Pool Alchemy**: A character can use an action to adjust the results after the dice in a pool are rolled.
+
 ## Example Resolutions
 
 ### Simple Attack
