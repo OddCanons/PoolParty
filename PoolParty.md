@@ -4,7 +4,7 @@
 
 ## Goals of PoPa
 
-* Combats are fast, easy to track, and dramatic, with variety by combatant type.
+* Combats are fast, easy to track, and dramatic, with variety by combatant type, including dangerous hordes and tricky boss battles.
 * Encourage party interaction.
 * Create action variety without analysis paralysis.
 * Attack types matter and may be needed in combination.
@@ -121,15 +121,31 @@ Bren Buffs-a-lot claims the next action to party in the pool, Channeling their o
 
 ### Throwing into a Horde Attack
 
-Tan Titan picks up Brobarian and hurls them at a group of Froggos. Tan starts a pool with 3 Physical dice for their strength and 2 more for Brobarian's size. Brobarian claims initiative next and uses their Defeat the Hordes action to add their attack to an existing pool—this is a prerequisite of the action—and to then resolve the pool against multiple Froggos, instead of applying it to a single one. Brobarian adds 2 Physical dice for their strength and another 2 for their big axe. That's a whopping 9 Physical dice. Froggos have no target threshold, just a wound pattern, so any roll of three or over removes a Froggo from the group. We'd expect 6 Froggos to fall to Tan bowling with Bro.
+Tan Titan picks up Brobarian and hurls them at a group of Froggos. Tan starts a pool with 3 Physical dice for their strength and 2 more for Brobarian's size. Brobarian claims initiative next and uses their Defeat the Hordes action to add their attack to an existing pool—this is a prerequisite of the action—and to then resolve the pool against multiple Froggos, instead of applying it to a single one. Brobarian adds 2 Physical dice for their strength and another 2 for their big axe. That's a whopping 9 Physical dice. Froggos have no target threshold, just a wound pattern, so any roll of four or over removes a Froggo from the group. We'd expect 5 Froggos to fall to Tan bowling with Bro.
 
 **Froggo**
 Defense thresholds (some creatures have no defense)
 Wounds
- * Any: 3
+ * Any: 4
 
 ### The Horde Fights Back
-_TODO: show how opponents with the horde keyword can band together to attack with a single pool to try to bring down a charater_
+The remaining Froggos pile into Brobarian. They have the _Horde_* keyword, so any Froggos that can attack Brobarian, can combine their attacks into a single pool. 9 Froggos each add 2 Physical dice to the pool, for Body 1 and a small spear with 1 Physical attack die. That's 18 physical dice. Hordes must meet the target's threshold for each wound they score, but combining their attackes makes that possible.
+
+Brobarian's physical defense is 5 for their armor, shield, and shield skill and 3 for their body. And Brobarian has 3 wounds that are the standard 4.
+
+Defense thresholds
+ * Any: **5**, **3**
+Wounds
+ * Any: 4, 4, 4
+
+The GM role odds for the Froggos dice pool, three each of 1 to 6. Matching the patterns, the weight of the Froggos does just enough to bring down the Brobarian with 3 wounds.
+
+* 6, 3, 4 -> 1 wound
+* 6, 3, 4 -> 1 wound
+* 6, 3, 4 -> 1 wound
+* 5, ... (can't match the threshold pattern)
+
+Enough small combatants can bring down the biggest fighters, without tedious rounds of missing attacks.
 
 ### Boss Battle
 _TODO: epic script of combo-ing to beat the threshold(s) a couple of times. Bosses could require different thresholds as they degrade, a la video game bosses changing modes as combats go on._
