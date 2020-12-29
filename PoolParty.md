@@ -121,7 +121,7 @@ Bren Buffs-a-lot claims the next action to party in the pool, Channeling their o
 
 ### Throwing into a Horde Attack
 
-Tan Titan picks up Brobarian and hurls them at a group of Froggos. Brobarian starts a pool with 3 Physical dice for their strength and 2 more for Brobarian's size. Brobarian uses their Defeat the Hordes action to add their attack to an existing pool—this is a prerequisite of the action—and to then resolve the pool against multiple Froggos, instead of applying it to a single one. Brobarian adds 2 Physical dice for their strength and andother 2 for their big axe. That's a whopping 9 Physical dice. Froggos have no target threshold, just a wound pattern, so any roll of three or over removes a Froggo from the group. We'd expect 6 Froggos to fall to Tan bowling with Bro.
+Tan Titan picks up Brobarian and hurls them at a group of Froggos. Tan starts a pool with 3 Physical dice for their strength and 2 more for Brobarian's size. Brobarian claims initiative next and uses their Defeat the Hordes action to add their attack to an existing pool—this is a prerequisite of the action—and to then resolve the pool against multiple Froggos, instead of applying it to a single one. Brobarian adds 2 Physical dice for their strength and another 2 for their big axe. That's a whopping 9 Physical dice. Froggos have no target threshold, just a wound pattern, so any roll of three or over removes a Froggo from the group. We'd expect 6 Froggos to fall to Tan bowling with Bro.
 
 **Froggo**
 Defense thresholds (some creatures have no defense)
