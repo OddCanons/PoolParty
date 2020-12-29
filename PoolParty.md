@@ -62,7 +62,7 @@ PoPa supports using alternate polyhedral dice and or custome D6s with different 
 
 > Pool manipulation in PoPa assumes some means of determining initiative, whether precomputed (e.g. Soulbound), rolled (e.g. D&D), action based (e.g. Doctor Who), or narrative initiative called out by the characters, with NPC initiative—when they can step in—serving as another way to differentiate between opponents. A narrative model with priority for chaining and combos over starting new pools would be interesting. In that way, players are encouraged to work together to beat some opponents before they can act.
 
-When acting, characters can take actions that effect existing pools and/or start one or more new pools. There's a lot of cool narrative potential on top of these mechanics. They can have cool names and characters can describing how their combining or chaining actions to create new effects.
+When acting, characters can take actions that effect existing pools and/or start one or more new pools. There's a lot of narrative potential on top of these mechanics. Actions and abilities can have cool names and characters can describe how their combining or chaining actions to create new effects.
 
 ### Example PoPa Character Actions
 
